@@ -65,10 +65,6 @@
         </releases>
     </pluginRepository>
 </pluginRepositories>
-</settings>
-
-
-
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
